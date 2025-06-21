@@ -12,7 +12,16 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
   <img src="https://github.com/user-attachments/assets/d4d110d0-5dd6-45aa-8581-9c47f9ed9a81" alt="AWS SOA" width="140"/>
 </p>
 
+## 🧪 Projects
+
+- **Serverless Application**  
+  https://github.com/whdbtjd/serverless-news-app
+
+- **Terraform Basics**  
+  https://github.com/whdbtjd/Terraform-init
+
 
 ## 📝 Blog
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@whdbtjd/posts)
+
