@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Jo Yu Sung
-
 Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure development.
 
 ---
