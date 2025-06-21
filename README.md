@@ -7,9 +7,10 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 ## 🏅 Certifications
 
 <p>
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_512x512.png" alt="AWS CLF" width="100"/>
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_512x512.png" alt="AWS SAA" width="100"/>
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_512x512.png" alt="AWS SOA" width="100"/>
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/50ca0a93-9a89-4b42-a686-a5088fad48d7)
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/b0317c1b-3a91-4979-b2a5-7d56f84d1a02)
+![aws-certified-sysops-administrator-associate](https://github.com/user-attachments/assets/d5de744f-43e5-473e-b193-4ac9e89bc84e)
+
 </p>
 
 ---
