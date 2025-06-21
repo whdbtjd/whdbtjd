@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**whdbtjd/whdbtjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🏅 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_CLF-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS_SAA-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified SysOps Administrator – Associate](https://img.shields.io/badge/AWS_SOA-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📝 Blog
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@whdbtjd/posts)
