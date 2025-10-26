@@ -1,4 +1,4 @@
-**Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure development.**
+Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure development.
 
 ## 📌 Activities
 
@@ -6,6 +6,14 @@
 |------|------|
 | 2024.09 ~ 2025.03 | 교내 개발동아리 GDG Server 파트 멤버 |
 | 2025.06 ~ 2025.09 | CJ OliveNetworks주관 CloudWave 6기 수료 |
+
+## 🏗 Projects
+
+| 기간 | 프로젝트명 | 역할 및 주요 내용 | 링크 |
+|------|-------------|------------------|------|
+| 2025.06 ~ 2025.09 | **CloudWave CGV 예매 서비스** | • 전체 클라우드 아키텍처 및 DR(Disaster Recovery) 구성 설계 담당<br>• Multi-Region Warm-Standby 아키텍처 설계 (Seoul-Tokyo)<br>• Step Functions 기반 자동 페일오버·복구 워크플로우 구축<br>• | [GitHub](https://github.com/cloudwave-CGV/cloudwave-CGV) |
+| 2025.02 ~ 2025.03 | **Serverless News App** | • AWS Lambda, API Gateway, DynamoDB, EventBridge 기반 서버리스 뉴스 수집 앱 개발<br>• Trafilatura를 이용한 본문 추출 및 TTL 기반 데이터 관리 자동화 | [GitHub](https://github.com/whdbtjd/serverless-news-app) |
+| 2025.04 ~ 2025.06 | **IaC Auto Deploy** | • Terraform과 Ansible을 이용한 인프라 배포 자동화 구축<br>• GitHub Actions를 활용한 환경별(Frontend/Backend) 자동 배포 파이프라인 구현 | [GitHub](https://github.com/whdbtjd/Iac-auto-deploy) |
 
 ## 🏅 Certifications
 
@@ -24,7 +32,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 ## 📝 Blog
 
