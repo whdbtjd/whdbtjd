@@ -11,7 +11,7 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 
 | 프로젝트명 | 역할 및 주요 내용 | 링크 |
 |-------------|------------------|------|
-| **대규모 트래픽 방지를 위한 예매 서비스** | 전체 클라우드 아키텍처 및 DR(Disaster Recovery) 구성 설계 담당 | [GitHub](https://github.com/cloudwave-CGV/cloudwave-CGV) |
+| **대규모 트래픽 방지 예매 서비스** | 전체 클라우드 아키텍처 및 DR(Disaster Recovery) 구성 설계 담당 | [GitHub](https://github.com/cloudwave-CGV/cloudwave-CGV) |
 | **Serverless News App** | AWS Lambda, API Gateway, DynamoDB, EventBridge 기반 서버리스 뉴스 수집 앱 개발 | [GitHub](https://github.com/whdbtjd/serverless-news-app) |
 | **IaC Auto Deploy** | Terraform과 Ansible을 이용한 인프라 배포 자동화 구축 | [GitHub](https://github.com/whdbtjd/Iac-auto-deploy) |
 
