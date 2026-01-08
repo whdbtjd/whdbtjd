@@ -23,6 +23,8 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 | 2025.03 | AWS Certified Cloud Practitioner |
 | 2025.05 | AWS Certified Solutions Architect – Associate |
 | 2025.06 | AWS Certified SysOps Administrator – Associate |
+| 2026.01 | HashiCorp Certified: Terraform Associate |
+
 
 ## 🛠 Skills
 
