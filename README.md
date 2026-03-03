@@ -4,16 +4,6 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 
 ---
 
-## 📌 Activities
-
-**2024.09 ~ 2025.03**  
-GDG on SKHU  
-
-**2025.06 ~ 2025.09**  
-CJ OliveNetworks 주관 CloudWave 6기 수료  
-
----
-
 ## 🏗 Projects
 
 ### 🎟 대규모 트래픽 방지 예매 서비스  
