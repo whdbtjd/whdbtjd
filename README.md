@@ -4,7 +4,7 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 
 | 기간 | 활동 |
 |------|------|
-| 2024.09 ~ 2025.03 | 교내 개발동아리 GDG Server 파트 멤버 |
+| 2024.09 ~ 2025.03 | GDG on SKHU |
 | 2025.06 ~ 2025.09 | CJ OliveNetworks주관 CloudWave 6기 수료 |
 
 ## 🏗 Projects
@@ -18,12 +18,12 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 
 ## 🏅 Certifications
 
-| 취득일 | 자격증 |
-|--------|--------|
-| 2025.03 | AWS Certified Cloud Practitioner |
-| 2025.05 | AWS Certified Solutions Architect – Associate |
-| 2025.06 | AWS Certified SysOps Administrator – Associate |
-| 2026.01 | HashiCorp Certified: Terraform Associate |
+<img width="160" height="160" alt="hashicorp-certified-terraform-associate-003" src="https://github.com/user-attachments/assets/b27ac75d-01ac-408b-ae32-1cd3cd5e5b3f" />
+<img width="600" height="600" alt="aws-certified-security-specialty" src="https://github.com/user-attachments/assets/13f98943-f568-4b6b-acae-f09201d17cea" />
+<img width="600" height="600" alt="aws-certified-solutions-architect-associate (2)" src="https://github.com/user-attachments/assets/d23762f7-02ad-4d0b-8707-6caa68bda123" />
+<img width="600" height="600" alt="aws-certified-sysops-administrator-associate (2)" src="https://github.com/user-attachments/assets/f55d4e7e-54a0-4475-a1a9-fd61fc80f21a" />
+<img width="600" height="600" alt="aws-certified-cloud-practitioner (2)" src="https://github.com/user-attachments/assets/80f7dc2e-8c9c-4960-9c39-84d092039d05" />
+
 
 
 ## 🛠 Skills
