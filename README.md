@@ -31,11 +31,20 @@ Aspiring cloud engineer with a strong focus on AWS and cloud infrastructure deve
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b27ac75d-01ac-408b-ae32-1cd3cd5e5b3f" width="160"/>
-  <img src="https://github.com/user-attachments/assets/80f7dc2e-8c9c-4960-9c39-84d092039d05" width="160"/>
-  <img src="https://github.com/user-attachments/assets/d23762f7-02ad-4d0b-8707-6caa68bda123" width="160"/>
-  <img src="https://github.com/user-attachments/assets/f55d4e7e-54a0-4475-a1a9-fd61fc80f21a" width="160"/>
+  <!-- AWS Security Specialty -->
   <img src="https://github.com/user-attachments/assets/13f98943-f568-4b6b-acae-f09201d17cea" width="160"/>
+
+  <!-- AWS Solutions Architect Associate -->
+  <img src="https://github.com/user-attachments/assets/d23762f7-02ad-4d0b-8707-6caa68bda123" width="160"/>
+
+  <!-- AWS SysOps Administrator Associate -->
+  <img src="https://github.com/user-attachments/assets/f55d4e7e-54a0-4475-a1a9-fd61fc80f21a" width="160"/>
+
+  <!-- AWS Cloud Practitioner -->
+  <img src="https://github.com/user-attachments/assets/80f7dc2e-8c9c-4960-9c39-84d092039d05" width="160"/>
+
+  <!-- Terraform Associate -->
+  <img src="https://github.com/user-attachments/assets/b27ac75d-01ac-408b-ae32-1cd3cd5e5b3f" width="160"/>
 </p>
 
 ---
